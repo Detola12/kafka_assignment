@@ -74,4 +74,4 @@ Accuracy: 1.00
 
 ## Demo
 
-[video link here]
+https://ontariotechu-my.sharepoint.com/:v:/g/personal/emmanuel_adegboye_ontariotechu_net/IQBaijYf8aKPQq9jXmX0Pd95Ad2-A50QUK1DrQ1kK6Pwayo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=b9hZGX
